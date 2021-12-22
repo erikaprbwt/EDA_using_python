@@ -1,10 +1,10 @@
 # EDA_using_python
 
 # What is EDA?
-Exploratory Data Analysis (EDA) was carried out to understand nad determine the characteristics of the data so that the next treatment can be determined at the pre-processing stage.
+Exploratory Data Analysis (EDA) was carried out to understand and determine the characteristics of the data so that the next treatment can be determined at the pre-processing stage.
 
 # About Dataset
-Dataset were used are video game sales dataset that contains 16598 rows dan 11 attributes.
+Dataset used were video game sales dataset that contains 16598 rows dan 11 attributes.
 **Data dictionary:**
 - Rank - Ranking of overall sales
 - Name - The games name
